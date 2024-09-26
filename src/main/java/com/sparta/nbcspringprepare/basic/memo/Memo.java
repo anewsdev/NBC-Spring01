@@ -1,4 +1,4 @@
-package com.sparta.nbcspringprepare.memo;
+package com.sparta.nbcspringprepare.basic.memo;
 
 import lombok.Getter;
 import lombok.Setter;
